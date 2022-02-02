@@ -1,4 +1,4 @@
 - 👀 New at programming  
-- 🌱 Learning Java and Oracle Sql
+- 🌱 Learning Java Python and Oracle Sql
 - 💞️ Gaming
 - 📫 Discord :Hideki Natsumi#9614
