@@ -2,3 +2,4 @@
 - 🌱 Learning Java Python and Oracle Sql
 - 💞️ Gaming
 - 📫 Discord :Hideki Natsumi#9614
+-![spotify](https://user-images.githubusercontent.com/96385473/152265298-70515c6d-0976-4581-9a59-65b15f6e5b8a.png)
