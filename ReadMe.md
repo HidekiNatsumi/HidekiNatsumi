@@ -4,6 +4,6 @@
 - 📫 Discord :Hideki Natsumi#9614
 
 https://open.spotify.com/track/7M3HuQRRAm1QD4kftmq0bb?si=257544818a2247ee
-![amourplastiquepic](https://user-images.githubusercontent.com/96385473/152266613-e33bbfd3-518d-43d8-b050-dd11e59745b3.jpg)
 
+![github java icon](https://user-images.githubusercontent.com/96385473/153901397-0a11bc10-e9fe-449a-90c6-4d71aa19293a.png)
 
