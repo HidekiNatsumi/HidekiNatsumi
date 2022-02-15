@@ -1,5 +1,5 @@
 - 👀 New at programming 
-- 🌱 Learning Java Python and Oracle Sql
+- 🌱 Learning Java Python and  Sql
 - 💞️ Gaming
 - 📫 Discord :Hideki Natsumi#9614
 
