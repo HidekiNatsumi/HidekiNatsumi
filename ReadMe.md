@@ -4,7 +4,7 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on Discord:</h3>
 <p align="left">
   Hideki Natsumi#9614
 </p>
