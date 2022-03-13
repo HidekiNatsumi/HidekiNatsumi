@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hidekinatsumi&label=Profile%20views&color=0e75b6&style=flat" alt="hidekinatsumi" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect me on Discord:</h3>
 <p align="left">
-**Hideki Natsumi#9614**
+Hideki Natsumi#9614
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
