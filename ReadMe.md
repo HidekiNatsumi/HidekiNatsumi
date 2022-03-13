@@ -2,10 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hidekinatsumi&label=Profile%20views&color=0e75b6&style=flat" alt="hidekinatsumi" /> </p>
 
-- 📫 How to reach me **Hideki Natsumi#9614**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  Hideki Natsumi#9614
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
