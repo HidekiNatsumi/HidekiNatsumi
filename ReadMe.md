@@ -2,9 +2,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hidekinatsumi&label=Profile%20views&color=0e75b6&style=flat" alt="hidekinatsumi" /> </p>
 
+- 📫 How to reach me **Hideki Natsumi#9614**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/Hideki Natsumi#9614" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Hideki Natsumi#9614" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
