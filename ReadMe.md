@@ -1,6 +1,3 @@
-![Name](Hello(1).gif)
-![Name](Namevid.png)
-
 
  ### Profile Views :<br>
   <img src="https://profile-counter.glitch.me/Hideki Natsumi/count.svg" />
