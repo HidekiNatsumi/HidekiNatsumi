@@ -16,30 +16,30 @@
 <!-- Skills as a table -->
 <table>
 <tr>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/rust.svg" alt="Rust icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/aws.svg" alt="AWS icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/docker.svg" alt="Docker icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/jenkins.svg" alt="jenkins icon" /></td>
+<td><img src="https://raw.githubusercontent.com/Hideki+Natsumi/Hideki+Natsumi/main/assets/icons/rust.svg" alt="Rust icon" /></td>
+<td><img src="https://raw.githubusercontent.com/Hideki+Natsumi/Hideki+Natsumi/main/assets/icons/aws.svg" alt="AWS icon" /></td>
+<td><img src="https://raw.githubusercontent.com/Hideki+Natsumi/Hideki+Natsumi/main/assets/icons/docker.svg" alt="Docker icon" /></td>
+<td><img src="https://raw.githubusercontent.com/Hideki+Natsumi/Hideki+Natsumi/main/assets/icons/jenkins.svg" alt="jenkins icon" /></td>
 </tr>
 <tr>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/kubernetes.svg" alt="kubernetes icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/terraform.svg" alt="terraform icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/postgresql.svg" alt="postgresql icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/nodejs.svg" alt="nodejs icon" /></td>
+<td><img src="https://raw.githubusercontent.com/Hideki+Natsumi/Hideki+Natsumi/main/assets/icons/kubernetes.svg" alt="kubernetes icon" /></td>
+<td><img src="https://raw.githubusercontent.com/Hideki+Natsumi/Hideki+Natsumi/main/assets/icons/terraform.svg" alt="terraform icon" /></td>
+<td><img src="https://raw.githubusercontent.com/Hideki+Natsumi/Hideki+Natsumi/main/assets/icons/postgresql.svg" alt="postgresql icon" /></td>
+<td><img src="https://raw.githubusercontent.com/Hideki+Natsumi/Hideki+Natsumi/main/assets/icons/nodejs.svg" alt="nodejs icon" /></td>
 </tr>
 <tr>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/ts.svg" alt="typescript icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/js.svg" alt="javascript icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/vuejs.svg" alt="vuejs icon" /></td>
-<td><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/scss.svg" alt="scss icon" /></td>
+<td><img src="https://raw.githubusercontent.com/Hideki+Natsumi/Hideki+Natsumi/main/assets/icons/ts.svg" alt="typescript icon" /></td>
+<td><img src="https://raw.githubusercontent.com/Hideki+Natsumi/Hideki+Natsumi/main/assets/icons/js.svg" alt="javascript icon" /></td>
+<td><img src="https://raw.githubusercontent.com/Hideki+Natsumi/Hideki+Natsumi/main/assets/icons/vuejs.svg" alt="vuejs icon" /></td>
+<td><img src="https://raw.githubusercontent.com/Hideki+Natsumi/Hideki+Natsumi/main/assets/icons/scss.svg" alt="scss icon" /></td>
 </tr>
 </table>
 
 <!-- Github Stats, coding streak, Most used languages analytics-->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=royrustdev&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for MishManners" width="700"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=royrustdev&theme=jolly" width="700"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=royrustdev&show_icons=true&locale=en&layout=compact&theme=jolly" alt="Most Used Languages analytics" width="700"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Hideki+Natsumi&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for MishManners" width="700"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Hideki+Natsumi&theme=jolly" width="700"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hideki+Natsumi&show_icons=true&locale=en&layout=compact&theme=jolly" alt="Most Used Languages analytics" width="700"/>
 </p>
 
 ---
@@ -69,8 +69,8 @@
 <!-- Contact Section -->
 
 <p align="center">
-<a href="https://www.linkedin.com/in/nrishinghananda-roy-b5ab90230/" target="_blank">
-<img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/linkedin.svg" alt="my linkedin account" />
+<a href="https://www.linkedin.com/in/Hideki-Natsumi-b5ab90230/" target="_blank">
+<img src="https://raw.githubusercontent.com/HidekiNatsumi/HidekiNatsumi/main/assets/icons/linkedin.svg" alt="my linkedin account" />
 </a>
 <a href="https://twitter.com/royrustdev" target="_blank">
 <img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/twitter.svg" alt="my twitter account" />
