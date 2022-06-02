@@ -4,7 +4,7 @@
 
 ### Here are some ideas to help you get started:
 
-- 🔭 I’m currently working on <strong>Full-Stack Web Development</strong> and <strong>Open Source Contributions</strong>
+- 🔭 I’m currently learning <strong>Full-Stack Web Development</strong> and <strong>Open Source Contributions</strong>
 - 🌱 I’m currently learning <strong>React JS</strong>
 - 🔍 I’m looking to collaborate on <strong>Front-End Web Dev Projects</strong>
 - 💬 Ask me about <strong> Java</strong>
