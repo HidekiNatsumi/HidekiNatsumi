@@ -1,89 +1,30 @@
-[![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Hideki+Natsumi;Welcome+to+my+Github+profile;)](https://git.io/typing-svg)
+![Name](Hello(1).gif)
+![Name](Namevid.png)
 
-<!-- Hero Section -->
-<p align="center"><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/img/programming1.webp" alt="A software engineer is writing code" width="700" /><img src="https://activity-graph.herokuapp.com/graph?username=royrustdev&theme=react-dark" alt="Hideki Natsumi's github activity graph" /><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/output/snake-anime.svg" alt="Github Snake Animation"></p>
 
-<!-- Profile Views -->
-<p align="center">
-</a>
-</a>
-</p>
+ ### Profile Views :<br>
+  <img src="https://profile-counter.glitch.me/Hideki Natsumi/count.svg" />
 
-# I'm a
 
-[![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+Engineer;DevOps+Engineer;AWS+Developer+Associate)](https://git.io/typing-svg)
+### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
 
-<!-- Skills as a table -->
-<table>
-<tr>
-<td><img src="https://raw.githubusercontent.com/Hideki+Natsumi/Hideki+Natsumi/main/assets/icons/rust.svg" alt="Rust icon" /></td>
-<td><img src="https://raw.githubusercontent.com/Hideki+Natsumi/Hideki+Natsumi/main/assets/icons/aws.svg" alt="AWS icon" /></td>
-<td><img src="https://raw.githubusercontent.com/Hideki+Natsumi/Hideki+Natsumi/main/assets/icons/docker.svg" alt="Docker icon" /></td>
-<td><img src="https://raw.githubusercontent.com/Hideki+Natsumi/Hideki+Natsumi/main/assets/icons/jenkins.svg" alt="jenkins icon" /></td>
-</tr>
-<tr>
-<td><img src="https://raw.githubusercontent.com/Hideki+Natsumi/Hideki+Natsumi/main/assets/icons/kubernetes.svg" alt="kubernetes icon" /></td>
-<td><img src="https://raw.githubusercontent.com/Hideki+Natsumi/Hideki+Natsumi/main/assets/icons/terraform.svg" alt="terraform icon" /></td>
-<td><img src="https://raw.githubusercontent.com/Hideki+Natsumi/Hideki+Natsumi/main/assets/icons/postgresql.svg" alt="postgresql icon" /></td>
-<td><img src="https://raw.githubusercontent.com/Hideki+Natsumi/Hideki+Natsumi/main/assets/icons/nodejs.svg" alt="nodejs icon" /></td>
-</tr>
-<tr>
-<td><img src="https://raw.githubusercontent.com/Hideki+Natsumi/Hideki+Natsumi/main/assets/icons/ts.svg" alt="typescript icon" /></td>
-<td><img src="https://raw.githubusercontent.com/Hideki+Natsumi/Hideki+Natsumi/main/assets/icons/js.svg" alt="javascript icon" /></td>
-<td><img src="https://raw.githubusercontent.com/Hideki+Natsumi/Hideki+Natsumi/main/assets/icons/vuejs.svg" alt="vuejs icon" /></td>
-<td><img src="https://raw.githubusercontent.com/Hideki+Natsumi/Hideki+Natsumi/main/assets/icons/scss.svg" alt="scss icon" /></td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/yobasu2015@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="yobasu2015@gmail.com">   <a  href="https://www.instagram.com/sharannyo_/"><img src="https://img.shields.io/badge/@sharannyo_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>   <a href="https://www.linkedin.com/in/sharannyobasu/"><img src="https://img.shields.io/badge/Sharannyo Basu-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>   <a  href="https://medium.com/@yobasu2015"><img src="https://img.shields.io/badge/@yobasu2015-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>
 
-<!-- Github Stats, coding streak, Most used languages analytics-->
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Hideki+Natsumi&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for MishManners" width="700"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Hideki+Natsumi&theme=jolly" width="700"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hideki+Natsumi&show_icons=true&locale=en&layout=compact&theme=jolly" alt="Most Used Languages analytics" width="700"/>
-</p>
+### Here are some ideas to help you get started:
 
----
+- 🔭 I’m currently working on <strong>Full-Stack Web Development</strong> and <strong>Open Source Contributions</strong>
+- 🌱 I’m currently learning <strong>React JS</strong>
+- 🔍 I’m looking to collaborate on <strong>Front-End Web Dev Projects</strong>
+- 💬 Ask me about <strong>Data Structures in C++, JavaScript, Bootstrap, Graphic Designing (Canva), VCS and Personal Branding</strong>
+- ⚡ Fun fact: I can talk 24/7 about football.
 
-<!-- About Me Section -->
+### Tools I work upon : 🛠
 
-## About Me
+<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white">   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">   <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white">   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>   <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">
 
-<!-- Coding GIF image -->
-<img align="right" width="200" height="200" src="https://raw.githubusercontent.com/Hideki+Natsumi/Hideki+Natsumi/main/assets/img/coding.gif" alt="Coding gif image" />
+<img src="https://github-readme-stats.vercel.app/api?username=sharannyobasu&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
 
-🔭 I’m currently working on **Rust** and **DevOps**
+----
+Credit: [sharannyobasu](https://github.com/sharannyobasu)
 
-🌱 I’m currently learning **Rust**, **AWS** & **DevOps**
-
-👯 I’m looking to _collaborate_ on **Rust** projects
-
-🤔 I’m looking for help with **Rust** and **AWS**
-
-💬 Ask me about **Rust**, **DevOps** and **AWS**
-
-😄 Pronouns: **_He/His_**
-
-📫 How to reach me: **royrustdev@gmail.com**
-
-<br />
-<!-- Contact Section -->
-
-<p align="center">
-<a href="https://www.linkedin.com/in/Hideki-Natsumi-b5ab90230/" target="_blank">
-<img src="https://raw.githubusercontent.com/HidekiNatsumi/HidekiNatsumi/main/assets/icons/linkedin.svg" alt="my linkedin account" />
-</a>
-<a href="https://twitter.com/royrustdev" target="_blank">
-<img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/twitter.svg" alt="my twitter account" />
-</a>
-<a href="https://www.reddit.com/user/royrustdev/" target="_blank">
-<img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/icons/reddit.svg" alt="my reddit account" />
-</a>
-</p>
-
-<p align="center"><b>Thank You for visiting my profile 🙏</b></p>
-
----
-
-Credit: [royrustdev](https://github.com/royrustdev)
-
-Last Edited on: 03/05/2022
+Last Edited on: 23/09/2020
