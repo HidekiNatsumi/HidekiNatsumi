@@ -49,7 +49,7 @@
 ## About Me
 
 <!-- Coding GIF image -->
-<img align="right" width="200" height="200" src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/img/coding.gif" alt="Coding gif image" />
+<img align="right" width="200" height="200" src="https://raw.githubusercontent.com/Hideki+Natsumi/Hideki+Natsumi/main/assets/img/coding.gif" alt="Coding gif image" />
 
 🔭 I’m currently working on **Rust** and **DevOps**
 
