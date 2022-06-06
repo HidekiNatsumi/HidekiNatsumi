@@ -5,7 +5,7 @@
 ### Here are some ideas to help you get started:
 
 - 🔭 I’m currently learning <strong>Full-Stack Web Development</strong>
-- 🌱 I’m currently learning <strong>React JS</strong>
+- 🌱 I’m currently learning <strong>Algorithms and Data Structures</strong>
 - 🔍 I’m looking to collaborate on <strong>Front-End Web Dev Projects</strong>
 - 💬 Ask me about <strong> Java</strong>
 
