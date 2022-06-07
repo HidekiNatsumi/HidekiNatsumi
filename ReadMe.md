@@ -15,8 +15,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=HidekiNatsumi&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hidekinatsumi&show_icons=true&locale=en&layout=compact" alt="hidekinatsumi" /></p>
-
 ----
 Credit: [HidekiNatsumi](https://github.com/HidekiNatsumi)
 
